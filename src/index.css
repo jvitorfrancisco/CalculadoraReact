@@ -1,10 +1,17 @@
 @font-face {
   font-family: 'RobotoMono';
   src: url('./fonts/RobotoMono-Thin.ttf');
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./fonts/RobotoMono-Medium.ttf');
+  font-weight: 200;
 }
 
 *{
   font-family: 'RobotoMono', monospace;
+  font-weight: 100;
 }
 
 body{

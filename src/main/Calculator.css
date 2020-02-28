@@ -1,6 +1,7 @@
 .calculator {
     height: 320px;
     width: 235px;
+    box-shadow: 2px 0px 8px 0px rgba(23,34,41,1);
     border-radius: 5px;
     overflow: hidden;
 
